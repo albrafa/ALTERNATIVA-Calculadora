@@ -1,4 +1,6 @@
  # Calculadora
+
+ ![uma calculadora que roda em terminal](./.docs/Calculadora.gif)
  
  ## Projeto
 

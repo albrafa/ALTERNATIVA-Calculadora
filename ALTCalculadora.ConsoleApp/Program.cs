@@ -20,6 +20,7 @@ int totalOperacoes = 0;
 while (deveContinuarExecutando == true)
 {
 
+  Console.Clear();
   // >> MENU <<
   Console.WriteLine("----------------------");
   Console.WriteLine("CALCULADORA 2026");
